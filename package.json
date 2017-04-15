@@ -1,0 +1,23 @@
+{
+  "name": "k6",
+  "version": "1.0.0",
+  "description": "a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larryteal/k6.git"
+  },
+  "keywords": [
+    "website",
+    "nodejs"
+  ],
+  "author": "Larry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larryteal/k6/issues"
+  },
+  "homepage": "https://github.com/larryteal/k6#readme"
+}
